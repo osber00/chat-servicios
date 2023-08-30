@@ -1,0 +1,923 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '573164657878@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB077B47DFB0A3A523393',
+    participant: undefined
+  },
+  messageTimestamp: 1693370490,
+  pushName: '#',
+  broadcast: false,
+  message: Message {
+    conversation: 'reparacion',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'reparacion',
+  from: '573164657878'
+}
+[sendQueue_A]:  {
+  ref: 'ans_adc3ada7-f44c-4612-bc91-8e17f8a89f39',
+  keyword: 'key_554c2dcb-50a3-4cf5-8493-67b7cc7d93fa',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '314e8d2218b9176f93e931d23b5e39a2'
+}
+[sendProviderAndSave]:  {
+  ref: 'ans_adc3ada7-f44c-4612-bc91-8e17f8a89f39',
+  keyword: 'key_554c2dcb-50a3-4cf5-8493-67b7cc7d93fa',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '314e8d2218b9176f93e931d23b5e39a2'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_adc3ada7-f44c-4612-bc91-8e17f8a89f39',
+  keyword: 'key_554c2dcb-50a3-4cf5-8493-67b7cc7d93fa',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '314e8d2218b9176f93e931d23b5e39a2'
+}
+[sendQueue_A]:  {
+  ref: 'ans_7e87c973-e46b-4bc6-ab2e-b59cc6a5ee12',
+  keyword: 'ans_adc3ada7-f44c-4612-bc91-8e17f8a89f39',
+  answer: 'Como encargado de reparación de teléfonos y computadoes ¿Cómo te puedo ayudar?',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '07fb0a232dc61fd8581b4e05747a8ee1'
+}
+[sendProviderAndSave]:  {
+  ref: 'ans_7e87c973-e46b-4bc6-ab2e-b59cc6a5ee12',
+  keyword: 'ans_adc3ada7-f44c-4612-bc91-8e17f8a89f39',
+  answer: 'Como encargado de reparación de teléfonos y computadoes ¿Cómo te puedo ayudar?',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '07fb0a232dc61fd8581b4e05747a8ee1'
+}
+[providerClass.sendMessage]:  {
+  ref: 'ans_7e87c973-e46b-4bc6-ab2e-b59cc6a5ee12',
+  keyword: 'ans_adc3ada7-f44c-4612-bc91-8e17f8a89f39',
+  answer: 'Como encargado de reparación de teléfonos y computadoes ¿Cómo te puedo ayudar?',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '07fb0a232dc61fd8581b4e05747a8ee1'
+}
+[databaseClass.save]:  {
+  ref: 'ans_7e87c973-e46b-4bc6-ab2e-b59cc6a5ee12',
+  keyword: 'ans_adc3ada7-f44c-4612-bc91-8e17f8a89f39',
+  answer: 'Como encargado de reparación de teléfonos y computadoes ¿Cómo te puedo ayudar?',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '07fb0a232dc61fd8581b4e05747a8ee1'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_7e87c973-e46b-4bc6-ab2e-b59cc6a5ee12',
+  keyword: 'ans_adc3ada7-f44c-4612-bc91-8e17f8a89f39',
+  answer: 'Como encargado de reparación de teléfonos y computadoes ¿Cómo te puedo ayudar?',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '07fb0a232dc61fd8581b4e05747a8ee1'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573164657878@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB00EA96A37B775B88C21',
+    participant: undefined
+  },
+  messageTimestamp: 1693370507,
+  pushName: '#',
+  broadcast: false,
+  message: Message {
+    conversation: 'Pueden atender a mi mascota?',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Pueden atender a mi mascota?',
+  from: '573164657878'
+}
+[sendProviderAndSave]:  {
+  id: 153,
+  ref: 'ans_7e87c973-e46b-4bc6-ab2e-b59cc6a5ee12',
+  keyword: 'ans_adc3ada7-f44c-4612-bc91-8e17f8a89f39',
+  answer: 'Lo siento, pero en nuestra tienda nos enfocamos en reparar teléfonos móviles y computadoras. No proporcionamos servicios de atención veterinaria para mascotas. ¿Hay algo más en lo que pueda ayudarte?',
+  refSerialize: '07fb0a232dc61fd8581b4e05747a8ee1',
+  phone: '573164657878',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  created_at: 2023-08-30T04:41:33.000Z
+}
+[providerClass.sendMessage]:  {
+  id: 153,
+  ref: 'ans_7e87c973-e46b-4bc6-ab2e-b59cc6a5ee12',
+  keyword: 'ans_adc3ada7-f44c-4612-bc91-8e17f8a89f39',
+  answer: 'Lo siento, pero en nuestra tienda nos enfocamos en reparar teléfonos móviles y computadoras. No proporcionamos servicios de atención veterinaria para mascotas. ¿Hay algo más en lo que pueda ayudarte?',
+  refSerialize: '07fb0a232dc61fd8581b4e05747a8ee1',
+  phone: '573164657878',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  created_at: 2023-08-30T04:41:33.000Z
+}
+[databaseClass.save]:  {
+  id: 153,
+  ref: 'ans_7e87c973-e46b-4bc6-ab2e-b59cc6a5ee12',
+  keyword: 'ans_adc3ada7-f44c-4612-bc91-8e17f8a89f39',
+  answer: 'Lo siento, pero en nuestra tienda nos enfocamos en reparar teléfonos móviles y computadoras. No proporcionamos servicios de atención veterinaria para mascotas. ¿Hay algo más en lo que pueda ayudarte?',
+  refSerialize: '07fb0a232dc61fd8581b4e05747a8ee1',
+  phone: '573164657878',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  created_at: 2023-08-30T04:41:33.000Z
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573164657878@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB05F1CCE2E31787D6EF7',
+    participant: undefined
+  },
+  messageTimestamp: 1693370531,
+  pushName: '#',
+  broadcast: false,
+  message: Message {
+    conversation: 'Mi computador no enciende',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Mi computador no enciende',
+  from: '573164657878'
+}
+[sendProviderAndSave]:  {
+  id: 155,
+  ref: 'ans_7e87c973-e46b-4bc6-ab2e-b59cc6a5ee12',
+  keyword: 'ans_adc3ada7-f44c-4612-bc91-8e17f8a89f39',
+  answer: 'Lamentamos escuchar eso. En nuestra tienda de reparación, podemos ayudarte con problemas de encendido en computadoras. Te recomendaría traer tu computador a nuestra tienda para que nuestros técnicos puedan diagnosticar y solucionar el problema. ¿Estás cerca de nuestra ubicación?',
+  refSerialize: '07fb0a232dc61fd8581b4e05747a8ee1',
+  phone: '573164657878',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  created_at: 2023-08-30T04:41:50.000Z
+}
+[providerClass.sendMessage]:  {
+  id: 155,
+  ref: 'ans_7e87c973-e46b-4bc6-ab2e-b59cc6a5ee12',
+  keyword: 'ans_adc3ada7-f44c-4612-bc91-8e17f8a89f39',
+  answer: 'Lamentamos escuchar eso. En nuestra tienda de reparación, podemos ayudarte con problemas de encendido en computadoras. Te recomendaría traer tu computador a nuestra tienda para que nuestros técnicos puedan diagnosticar y solucionar el problema. ¿Estás cerca de nuestra ubicación?',
+  refSerialize: '07fb0a232dc61fd8581b4e05747a8ee1',
+  phone: '573164657878',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  created_at: 2023-08-30T04:41:50.000Z
+}
+[databaseClass.save]:  {
+  id: 155,
+  ref: 'ans_7e87c973-e46b-4bc6-ab2e-b59cc6a5ee12',
+  keyword: 'ans_adc3ada7-f44c-4612-bc91-8e17f8a89f39',
+  answer: 'Lamentamos escuchar eso. En nuestra tienda de reparación, podemos ayudarte con problemas de encendido en computadoras. Te recomendaría traer tu computador a nuestra tienda para que nuestros técnicos puedan diagnosticar y solucionar el problema. ¿Estás cerca de nuestra ubicación?',
+  refSerialize: '07fb0a232dc61fd8581b4e05747a8ee1',
+  phone: '573164657878',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  created_at: 2023-08-30T04:41:50.000Z
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573164657878@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB09A890C5F3492BA44A0',
+    participant: undefined
+  },
+  messageTimestamp: 1693370565,
+  pushName: '#',
+  broadcast: false,
+  message: Message {
+    conversation: 'Ok, quiero mandarla a reparar en su tienda, cómo hago?',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Ok, quiero mandarla a reparar en su tienda, cómo hago?',
+  from: '573164657878'
+}
+[sendProviderAndSave]:  {
+  id: 157,
+  ref: 'ans_7e87c973-e46b-4bc6-ab2e-b59cc6a5ee12',
+  keyword: 'ans_adc3ada7-f44c-4612-bc91-8e17f8a89f39',
+  answer: 'Para enviar tu computadora a reparar en nuestra tienda, puedes seguir estos pasos:\n' +
+    '\n' +
+    '1. Embala adecuadamente tu computadora para protegerla durante el envío.\n' +
+    '2. Visita nuestra tienda física y trae tu computadora personalmente, o si prefieres:\n' +
+    '3. Comunícate con nosotros por teléfono o correo electrónico para coordinar el envío o la recogida del dispositivo.\n' +
+    '4. Nuestro equipo te proporcionará instrucciones específicas para el proceso de envío y te informará sobre los costos y plazos de reparación.\n' +
+    '\n' +
+    'Recuerda que cada caso puede ser diferente, por lo que es mejor contactarnos directamente para obtener información más detallada. ¿Necesitas nuestra dirección o algún otro detalle para iniciar el proceso?',
+  refSerialize: '07fb0a232dc61fd8581b4e05747a8ee1',
+  phone: '573164657878',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  created_at: 2023-08-30T04:42:15.000Z
+}
+[providerClass.sendMessage]:  {
+  id: 157,
+  ref: 'ans_7e87c973-e46b-4bc6-ab2e-b59cc6a5ee12',
+  keyword: 'ans_adc3ada7-f44c-4612-bc91-8e17f8a89f39',
+  answer: 'Para enviar tu computadora a reparar en nuestra tienda, puedes seguir estos pasos:\n' +
+    '\n' +
+    '1. Embala adecuadamente tu computadora para protegerla durante el envío.\n' +
+    '2. Visita nuestra tienda física y trae tu computadora personalmente, o si prefieres:\n' +
+    '3. Comunícate con nosotros por teléfono o correo electrónico para coordinar el envío o la recogida del dispositivo.\n' +
+    '4. Nuestro equipo te proporcionará instrucciones específicas para el proceso de envío y te informará sobre los costos y plazos de reparación.\n' +
+    '\n' +
+    'Recuerda que cada caso puede ser diferente, por lo que es mejor contactarnos directamente para obtener información más detallada. ¿Necesitas nuestra dirección o algún otro detalle para iniciar el proceso?',
+  refSerialize: '07fb0a232dc61fd8581b4e05747a8ee1',
+  phone: '573164657878',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  created_at: 2023-08-30T04:42:15.000Z
+}
+[databaseClass.save]:  {
+  id: 157,
+  ref: 'ans_7e87c973-e46b-4bc6-ab2e-b59cc6a5ee12',
+  keyword: 'ans_adc3ada7-f44c-4612-bc91-8e17f8a89f39',
+  answer: 'Para enviar tu computadora a reparar en nuestra tienda, puedes seguir estos pasos:\n' +
+    '\n' +
+    '1. Embala adecuadamente tu computadora para protegerla durante el envío.\n' +
+    '2. Visita nuestra tienda física y trae tu computadora personalmente, o si prefieres:\n' +
+    '3. Comunícate con nosotros por teléfono o correo electrónico para coordinar el envío o la recogida del dispositivo.\n' +
+    '4. Nuestro equipo te proporcionará instrucciones específicas para el proceso de envío y te informará sobre los costos y plazos de reparación.\n' +
+    '\n' +
+    'Recuerda que cada caso puede ser diferente, por lo que es mejor contactarnos directamente para obtener información más detallada. ¿Necesitas nuestra dirección o algún otro detalle para iniciar el proceso?',
+  refSerialize: '07fb0a232dc61fd8581b4e05747a8ee1',
+  phone: '573164657878',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  created_at: 2023-08-30T04:42:15.000Z
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573164657878@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0F26AE6B1269432CC50',
+    participant: undefined
+  },
+  messageTimestamp: 1693370589,
+  pushName: '#',
+  broadcast: false,
+  message: Message {
+    conversation: 'quien me dice un precio?',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'quien me dice un precio?',
+  from: '573164657878'
+}
+[sendProviderAndSave]:  {
+  id: 159,
+  ref: 'ans_7e87c973-e46b-4bc6-ab2e-b59cc6a5ee12',
+  keyword: 'ans_adc3ada7-f44c-4612-bc91-8e17f8a89f39',
+  answer: 'Lamentablemente, como modelo de lenguaje AI, no puedo proporcionar precios específicos para los servicios de reparación de computadoras. Los precios pueden variar dependiendo del tipo de reparación que se necesite, la marca y modelo del dispositivo, así como otros factores. Te recomendaría contactar directamente con nuestra tienda de reparación de telefonos moviles y computadoras para obtener información precisa sobre los precios de los servicios que requieres. Ellos estarán encantados de asistirte y brindarte detalles sobre los costos asociados a la reparación de tu computadora.',
+  refSerialize: '07fb0a232dc61fd8581b4e05747a8ee1',
+  phone: '573164657878',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  created_at: 2023-08-30T04:42:52.000Z
+}
+[providerClass.sendMessage]:  {
+  id: 159,
+  ref: 'ans_7e87c973-e46b-4bc6-ab2e-b59cc6a5ee12',
+  keyword: 'ans_adc3ada7-f44c-4612-bc91-8e17f8a89f39',
+  answer: 'Lamentablemente, como modelo de lenguaje AI, no puedo proporcionar precios específicos para los servicios de reparación de computadoras. Los precios pueden variar dependiendo del tipo de reparación que se necesite, la marca y modelo del dispositivo, así como otros factores. Te recomendaría contactar directamente con nuestra tienda de reparación de telefonos moviles y computadoras para obtener información precisa sobre los precios de los servicios que requieres. Ellos estarán encantados de asistirte y brindarte detalles sobre los costos asociados a la reparación de tu computadora.',
+  refSerialize: '07fb0a232dc61fd8581b4e05747a8ee1',
+  phone: '573164657878',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  created_at: 2023-08-30T04:42:52.000Z
+}
+[databaseClass.save]:  {
+  id: 159,
+  ref: 'ans_7e87c973-e46b-4bc6-ab2e-b59cc6a5ee12',
+  keyword: 'ans_adc3ada7-f44c-4612-bc91-8e17f8a89f39',
+  answer: 'Lamentablemente, como modelo de lenguaje AI, no puedo proporcionar precios específicos para los servicios de reparación de computadoras. Los precios pueden variar dependiendo del tipo de reparación que se necesite, la marca y modelo del dispositivo, así como otros factores. Te recomendaría contactar directamente con nuestra tienda de reparación de telefonos moviles y computadoras para obtener información precisa sobre los precios de los servicios que requieres. Ellos estarán encantados de asistirte y brindarte detalles sobre los costos asociados a la reparación de tu computadora.',
+  refSerialize: '07fb0a232dc61fd8581b4e05747a8ee1',
+  phone: '573164657878',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  created_at: 2023-08-30T04:42:52.000Z
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573164657878@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB046BD6ABDE803232FA3',
+    participant: undefined
+  },
+  messageTimestamp: 1693370615,
+  pushName: '#',
+  broadcast: false,
+  message: Message {
+    conversation: 'En tu tienda quien me dice el costo de la reparación',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'En tu tienda quien me dice el costo de la reparación',
+  from: '573164657878'
+}
+[sendProviderAndSave]:  {
+  id: 161,
+  ref: 'ans_7e87c973-e46b-4bc6-ab2e-b59cc6a5ee12',
+  keyword: 'ans_adc3ada7-f44c-4612-bc91-8e17f8a89f39',
+  answer: 'En nuestra tienda, nuestros técnicos especializados evaluarán el estado de tu dispositivo y determinarán el costo de la reparación. El precio puede variar según la naturaleza del problema y los componentes involucrados. Te recomendamos traer tu computadora a nuestra tienda para que podamos realizar un diagnóstico preciso y proporcionarte un presupuesto detallado basado en las necesidades específicas de tu dispositivo. Nuestro equipo estará encantado de ayudarte con esta información una vez que evaluemos el estado de tu computadora.',
+  refSerialize: '07fb0a232dc61fd8581b4e05747a8ee1',
+  phone: '573164657878',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  created_at: 2023-08-30T04:43:15.000Z
+}
+[providerClass.sendMessage]:  {
+  id: 161,
+  ref: 'ans_7e87c973-e46b-4bc6-ab2e-b59cc6a5ee12',
+  keyword: 'ans_adc3ada7-f44c-4612-bc91-8e17f8a89f39',
+  answer: 'En nuestra tienda, nuestros técnicos especializados evaluarán el estado de tu dispositivo y determinarán el costo de la reparación. El precio puede variar según la naturaleza del problema y los componentes involucrados. Te recomendamos traer tu computadora a nuestra tienda para que podamos realizar un diagnóstico preciso y proporcionarte un presupuesto detallado basado en las necesidades específicas de tu dispositivo. Nuestro equipo estará encantado de ayudarte con esta información una vez que evaluemos el estado de tu computadora.',
+  refSerialize: '07fb0a232dc61fd8581b4e05747a8ee1',
+  phone: '573164657878',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  created_at: 2023-08-30T04:43:15.000Z
+}
+[databaseClass.save]:  {
+  id: 161,
+  ref: 'ans_7e87c973-e46b-4bc6-ab2e-b59cc6a5ee12',
+  keyword: 'ans_adc3ada7-f44c-4612-bc91-8e17f8a89f39',
+  answer: 'En nuestra tienda, nuestros técnicos especializados evaluarán el estado de tu dispositivo y determinarán el costo de la reparación. El precio puede variar según la naturaleza del problema y los componentes involucrados. Te recomendamos traer tu computadora a nuestra tienda para que podamos realizar un diagnóstico preciso y proporcionarte un presupuesto detallado basado en las necesidades específicas de tu dispositivo. Nuestro equipo estará encantado de ayudarte con esta información una vez que evaluemos el estado de tu computadora.',
+  refSerialize: '07fb0a232dc61fd8581b4e05747a8ee1',
+  phone: '573164657878',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  created_at: 2023-08-30T04:43:15.000Z
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573164657878@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB079A9843DC15E7AA464',
+    participant: undefined
+  },
+  messageTimestamp: 1693370637,
+  pushName: '#',
+  broadcast: false,
+  message: Message {
+    conversation: 'Cómo hago para hablar con un técnico?',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Cómo hago para hablar con un técnico?',
+  from: '573164657878'
+}
+[sendProviderAndSave]:  {
+  id: 163,
+  ref: 'ans_7e87c973-e46b-4bc6-ab2e-b59cc6a5ee12',
+  keyword: 'ans_adc3ada7-f44c-4612-bc91-8e17f8a89f39',
+  answer: 'Para hablar directamente con uno de nuestros técnicos, te recomendaría visitar nuestra tienda física. Allí podrás contarles sobre el problema que estás experimentando con tu dispositivo y ellos podrán ayudarte a diagnosticar y ofrecerte las opciones de reparación disponibles.\n' +
+    '\n' +
+    'Si no puedes visitar la tienda en persona, también puedes comunicarte con nosotros por teléfono o correo electrónico. Nuestro personal de atención al cliente podrá programar una cita para que un técnico se comunique contigo y brinde asistencia técnica remota o coordinar la recogida de tu dispositivo para su reparación.\n' +
+    '\n' +
+    'Recuerda que si deseas ser transferido directamente con un técnico, simplemente escribe "AGENTE". Ellos estarán encantados de ayudarte con cualquier duda o consulta específica que tengas sobre la reparación de tu dispositivo.',
+  refSerialize: '07fb0a232dc61fd8581b4e05747a8ee1',
+  phone: '573164657878',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  created_at: 2023-08-30T04:43:41.000Z
+}
+[providerClass.sendMessage]:  {
+  id: 163,
+  ref: 'ans_7e87c973-e46b-4bc6-ab2e-b59cc6a5ee12',
+  keyword: 'ans_adc3ada7-f44c-4612-bc91-8e17f8a89f39',
+  answer: 'Para hablar directamente con uno de nuestros técnicos, te recomendaría visitar nuestra tienda física. Allí podrás contarles sobre el problema que estás experimentando con tu dispositivo y ellos podrán ayudarte a diagnosticar y ofrecerte las opciones de reparación disponibles.\n' +
+    '\n' +
+    'Si no puedes visitar la tienda en persona, también puedes comunicarte con nosotros por teléfono o correo electrónico. Nuestro personal de atención al cliente podrá programar una cita para que un técnico se comunique contigo y brinde asistencia técnica remota o coordinar la recogida de tu dispositivo para su reparación.\n' +
+    '\n' +
+    'Recuerda que si deseas ser transferido directamente con un técnico, simplemente escribe "AGENTE". Ellos estarán encantados de ayudarte con cualquier duda o consulta específica que tengas sobre la reparación de tu dispositivo.',
+  refSerialize: '07fb0a232dc61fd8581b4e05747a8ee1',
+  phone: '573164657878',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  created_at: 2023-08-30T04:43:41.000Z
+}
+[databaseClass.save]:  {
+  id: 163,
+  ref: 'ans_7e87c973-e46b-4bc6-ab2e-b59cc6a5ee12',
+  keyword: 'ans_adc3ada7-f44c-4612-bc91-8e17f8a89f39',
+  answer: 'Para hablar directamente con uno de nuestros técnicos, te recomendaría visitar nuestra tienda física. Allí podrás contarles sobre el problema que estás experimentando con tu dispositivo y ellos podrán ayudarte a diagnosticar y ofrecerte las opciones de reparación disponibles.\n' +
+    '\n' +
+    'Si no puedes visitar la tienda en persona, también puedes comunicarte con nosotros por teléfono o correo electrónico. Nuestro personal de atención al cliente podrá programar una cita para que un técnico se comunique contigo y brinde asistencia técnica remota o coordinar la recogida de tu dispositivo para su reparación.\n' +
+    '\n' +
+    'Recuerda que si deseas ser transferido directamente con un técnico, simplemente escribe "AGENTE". Ellos estarán encantados de ayudarte con cualquier duda o consulta específica que tengas sobre la reparación de tu dispositivo.',
+  refSerialize: '07fb0a232dc61fd8581b4e05747a8ee1',
+  phone: '573164657878',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  created_at: 2023-08-30T04:43:41.000Z
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573164657878@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0233B1E4ED56870B6D4',
+    participant: undefined
+  },
+  messageTimestamp: 1693370663,
+  pushName: '#',
+  broadcast: false,
+  message: Message {
+    conversation: 'agente',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'agente',
+  from: '573164657878'
+}
+[sendQueue_A]:  {
+  ref: 'ans_116550a7-fb91-45c1-ad73-c5e7caa1fcb7',
+  keyword: 'key_64dcc67d-c945-4608-ae73-1451eaa6cd12',
+  answer: 'Selecciona una de las siguientes opciones',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '94c14088e3dd5337e9e31c522822d8b8'
+}
+[sendProviderAndSave]:  {
+  ref: 'ans_116550a7-fb91-45c1-ad73-c5e7caa1fcb7',
+  keyword: 'key_64dcc67d-c945-4608-ae73-1451eaa6cd12',
+  answer: 'Selecciona una de las siguientes opciones',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '94c14088e3dd5337e9e31c522822d8b8'
+}
+[providerClass.sendMessage]:  {
+  ref: 'ans_116550a7-fb91-45c1-ad73-c5e7caa1fcb7',
+  keyword: 'key_64dcc67d-c945-4608-ae73-1451eaa6cd12',
+  answer: 'Selecciona una de las siguientes opciones',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '94c14088e3dd5337e9e31c522822d8b8'
+}
+[databaseClass.save]:  {
+  ref: 'ans_116550a7-fb91-45c1-ad73-c5e7caa1fcb7',
+  keyword: 'key_64dcc67d-c945-4608-ae73-1451eaa6cd12',
+  answer: 'Selecciona una de las siguientes opciones',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '94c14088e3dd5337e9e31c522822d8b8'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_116550a7-fb91-45c1-ad73-c5e7caa1fcb7',
+  keyword: 'key_64dcc67d-c945-4608-ae73-1451eaa6cd12',
+  answer: 'Selecciona una de las siguientes opciones',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '94c14088e3dd5337e9e31c522822d8b8'
+}
+[sendQueue_A]:  {
+  ref: 'ans_5f32b14b-6b6e-4770-ad77-342fd50f6065',
+  keyword: 'ans_116550a7-fb91-45c1-ad73-c5e7caa1fcb7',
+  answer: '*1* Problemas con la plataforma\n*2* Videoconferencias\n*3* Acceso a ALDEA',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [ [Object], [Object], [Object], [Object], [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '6f31fff23ad56e5c64b6992abf08faa2'
+}
+[sendProviderAndSave]:  {
+  ref: 'ans_5f32b14b-6b6e-4770-ad77-342fd50f6065',
+  keyword: 'ans_116550a7-fb91-45c1-ad73-c5e7caa1fcb7',
+  answer: '*1* Problemas con la plataforma\n*2* Videoconferencias\n*3* Acceso a ALDEA',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [ [Object], [Object], [Object], [Object], [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '6f31fff23ad56e5c64b6992abf08faa2'
+}
+[providerClass.sendMessage]:  {
+  ref: 'ans_5f32b14b-6b6e-4770-ad77-342fd50f6065',
+  keyword: 'ans_116550a7-fb91-45c1-ad73-c5e7caa1fcb7',
+  answer: '*1* Problemas con la plataforma\n*2* Videoconferencias\n*3* Acceso a ALDEA',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [ [Object], [Object], [Object], [Object], [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '6f31fff23ad56e5c64b6992abf08faa2'
+}
+[databaseClass.save]:  {
+  ref: 'ans_5f32b14b-6b6e-4770-ad77-342fd50f6065',
+  keyword: 'ans_116550a7-fb91-45c1-ad73-c5e7caa1fcb7',
+  answer: '*1* Problemas con la plataforma\n*2* Videoconferencias\n*3* Acceso a ALDEA',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [ [Object], [Object], [Object], [Object], [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '6f31fff23ad56e5c64b6992abf08faa2'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_5f32b14b-6b6e-4770-ad77-342fd50f6065',
+  keyword: 'ans_116550a7-fb91-45c1-ad73-c5e7caa1fcb7',
+  answer: '*1* Problemas con la plataforma\n*2* Videoconferencias\n*3* Acceso a ALDEA',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [ [Object], [Object], [Object], [Object], [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '6f31fff23ad56e5c64b6992abf08faa2'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573164657878@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0074B0D7768DA75FD23',
+    participant: undefined
+  },
+  messageTimestamp: 1693370666,
+  pushName: '#',
+  broadcast: false,
+  message: Message {
+    conversation: '2',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '2',
+  from: '573164657878'
+}
+[sendQueue_A]:  {
+  ref: 'ans_ac927f69-9125-4f6d-99bb-3a07199e8e1d',
+  keyword: 'key_3636796d-ceb5-4695-8cb8-05ce2b98fa30',
+  answer: 'Asesorias para videoconferencias',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '61a64c574c5f7441fb91b12b651b0f91'
+}
+[sendProviderAndSave]:  {
+  ref: 'ans_ac927f69-9125-4f6d-99bb-3a07199e8e1d',
+  keyword: 'key_3636796d-ceb5-4695-8cb8-05ce2b98fa30',
+  answer: 'Asesorias para videoconferencias',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '61a64c574c5f7441fb91b12b651b0f91'
+}
+[providerClass.sendMessage]:  {
+  ref: 'ans_ac927f69-9125-4f6d-99bb-3a07199e8e1d',
+  keyword: 'key_3636796d-ceb5-4695-8cb8-05ce2b98fa30',
+  answer: 'Asesorias para videoconferencias',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '61a64c574c5f7441fb91b12b651b0f91'
+}
+[databaseClass.save]:  {
+  ref: 'ans_ac927f69-9125-4f6d-99bb-3a07199e8e1d',
+  keyword: 'key_3636796d-ceb5-4695-8cb8-05ce2b98fa30',
+  answer: 'Asesorias para videoconferencias',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '61a64c574c5f7441fb91b12b651b0f91'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_ac927f69-9125-4f6d-99bb-3a07199e8e1d',
+  keyword: 'key_3636796d-ceb5-4695-8cb8-05ce2b98fa30',
+  answer: 'Asesorias para videoconferencias',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '61a64c574c5f7441fb91b12b651b0f91'
+}
